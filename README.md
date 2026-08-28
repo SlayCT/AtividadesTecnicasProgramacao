@@ -10,11 +10,11 @@ Instruções:
 
 3. Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação. Obrigatório o uso do switch/case.
 Menu de opções:
-  1. Somar dois números
-  2. Subtrair dois números
-  3. Multiplicar dois números
-  4. Dividir dois números
-  5. Raiz quadrada de um número
+  a. Somar dois números
+  b. Subtrair dois números
+  c. Multiplicar dois números
+  d. Dividir dois números
+  e. Raiz quadrada de um número
 
 ------------------------------------------------------------------------------------------------------
 
