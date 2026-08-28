@@ -10,11 +10,11 @@ Instruções:
 
 3. Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação. Obrigatório o uso do switch/case.
 Menu de opções:
-  1. Somar dois números;
-  2. Subtrair dois números;
-  3. Multiplicar dois números;
-  4. Dividir dois números;
-  5. Raiz quadrada de um número.
+  1. Somar dois números
+  2. Subtrair dois números
+  3. Multiplicar dois números
+  4. Dividir dois números
+  5. Raiz quadrada de um número
 
 ------------------------------------------------------------------------------------------------------
 
@@ -25,10 +25,10 @@ Instruções:
 1. Elabore um programa que preencha um array de 10 posições digitados pelo usuário(valores inteiros), ao final o programa deve subtrair 1 dos números impares e adicionar 1 aos números pares. Exibir em tela os novos valores do array.
 
 2. Elabore um programa que preencha um array de 10 posições digitado pelo usuário(valores inteiros), calcule e mostre:
-  a) A quantidade de números pares;
-  b) Quais os números pares;
-  c) A quantidade de números impares;
-  d) Quais os números impares.
+  a) A quantidade de números pares
+  b) Quais os números pares
+  c) A quantidade de números impares
+  d) Quais os números impares
 
 ------------------------------------------------------------------------------------------------------
 
